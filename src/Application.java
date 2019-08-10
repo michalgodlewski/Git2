@@ -1,5 +1,6 @@
 public class Application {
     public static void main(String[] args) {
-        System.out.println("alert 4");
+        System.out.println("to jest nowy branch");
+        System.out.println("nowy tekst");
     }
 }
